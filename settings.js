@@ -19,34 +19,48 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is RED DRAGON🔥
-My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `❤️ *LAKIYA-MD-WA-BOT* ❤️
 
-global.owner = ['+380944814219'] //Owner number in aive msg
-global.premium = ['+380944814219'] //Owner Number info
-global.ownernomer = '+380944814219' //Owner Number <<<
+🍁Hey There! I'm Online 24 × 7🍁
 
-global.ownername = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖' //Owner Name
-global.botname = ' ☬RED༒DRAGON' //Bot Name
+🍁BOT RUN TIME :
 
-global.button = '🤭Youtube📍' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://youtu.be/E5C-lrl_g9I' //Change Your Button's URL
+🍁 Multi Device Bot In Whatsapp 🍁
+
+🍁My name :❰ ۝̮̮̮̮̮̮̇̇̇̇̇̇̇̆̆̆̆̄ⁱ ᵃᵐɪᴍᴀꜱʜᴀ ᐛ⃢ 🍁
+
+🧑‍💻 Developer :❰ ❤️ 𝗟𝗔𝗞𝗜𝗬𝗔 𝗠𝗗 𝗕𝗢𝗧 ❤️ 🧑‍💻
+
+😌𝗰𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲 :❰ https://wa.me/94762623954?=HEY♨👹 ❱🍁
+
+🍁Thank You For Using ❰🍁🧑‍💻 LAKIYA MD WA BOT 🧑‍💻🍁
+My Creator is ☬𝙼𝙳༒𝙻𝙰𝙺𝙸𝚈𝙰` //Costomize Alive Message (type your message in `` )
+
+global.owner = ['+94762623954'] //Owner number in aive msg
+global.premium = ['+94762623954'] //Owner Number info
+global.ownernomer = '+94762623954' //Owner Number <<<
+
+global.ownername = '☬𝙼𝙳༒𝙻𝙰𝙺𝙸𝚈𝙰' //Owner Name
+global.botname = ' 𝗟𝗔𝗞𝗜𝗬𝗔 𝗠𝗗 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗕𝗢𝗥👹' //Bot Name
+
+global.button = '👹Youtube👹' //Costomize A Button Name In Alive Message
+global.btnurl = 'https://youtube.com/channel/UC1fFCZY3oHq5MjA5Dv3fnOg' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
-global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
-global.author = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯' //Author Name
-global.prefa = ['','!','.','😂','❤','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
+global.packname = '☬𝙼𝙳༒𝙻𝙰𝙺𝙸𝚈𝙰' //Bot Pacage Name
+global.author = '👹☬𝙼𝙳༒𝙻𝙰𝙺𝙸𝚈𝙰👹' //Author Name
+global.prefa = ['','!','.','👹','♥','🍁'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '©_Kumuthu.' //In list menu
-global.chatbotpre = 'true'  // Chat bot true/false
+global.footer = '©_☬𝙼𝙳༒𝙻𝙰𝙺𝙸𝚈𝙰.' //In list menu
+global.chatbotpre = 'false'  // Chat bot true/false
 
 
-global.ig = 'https://github.com/prabhasha2006' //Github Account!
+global.ig = 'https://github.com/PATHUM-Bot' //Github Account!
 
-global.mess = { // cOSTOMIZE WITH YOUR LANGUAGE
+global.mess = { // SI
 	
     success: 'Done ✅',
     admin: 'Only Admins can use it!😉',
